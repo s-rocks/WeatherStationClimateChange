@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2932;Leipzig-Schkeuditz;;;;;19340101;19720430;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+2932;Leipzig-Schkeuditz;12.22;51.42;131;.05;19720501;19730801;Minimumthermometer;Temperaturmessung, konv.;eor;
+2932;Leipzig-Schkeuditz;12.22;51.42;131;.05;19740118;19850520;Minimumthermometer;Temperaturmessung, konv.;eor;
+2932;Leipzig-Schkeuditz;12.22;51.42;131;.05;19851123;19891014;Minimumthermometer;Temperaturmessung, konv.;eor;
+2932;Leipzig-Schkeuditz;12.22;51.42;133;.05;19891015;19940118;Minimumthermometer;Temperaturmessung, konv.;eor;
+2932;Leipzig-Schkeuditz;12.23;51.41;144;.05;19940119;20000229;Minimumthermometer;Temperaturmessung, konv.;eor;
+2932;Leipzig-Schkeuditz;12.23;51.41;144;.05;19970811;20000229;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;.05;20000301;20081231;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;.05;20090101;20091231;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2932;Leipzig/Halle;12.24;51.43;131;.05;20100101;20180917;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2932;Leipzig/Halle;12.24;51.43;131;.05;20181122;20230426;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

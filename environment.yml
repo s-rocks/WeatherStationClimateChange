@@ -1,0 +1,12 @@
+name: student_project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+- numpy
+- xarray
+- pandas
+- matplotlib
+- scipy
+- ipykernel
+- statsmodels
