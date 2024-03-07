@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2932;Leipzig-Schkeuditz;12.22;51.42;131;12;19720501;19891014;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+2932;Leipzig-Schkeuditz;12.22;51.42;133;14;19891015;19940118;WMG 201;Windmessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.23;51.41;144;10;19940119;20000229;Windsensor Classic 4.3303 (DWDSYN);Windmessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;10;20000301;20081231;Windsensor Classic 4.3303 (DWDSYN);Windmessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;10;20090101;20091231;Windsensor Classic 4.3303 (DWDSYN);Windmessung, elektr.;eor;
+2932;Leipzig/Halle;12.24;51.43;131;10;20100101;20181121;Windsensor Classic 4.3303 (DWDSYN);Windmessung, elektr.;eor;
+2932;Leipzig/Halle;12.24;51.43;131;10;20181122;20230426;Windsensor Classic 4.3303 (DWDSYN);Windmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --
