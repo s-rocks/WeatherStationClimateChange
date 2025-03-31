@@ -6,6 +6,7 @@ dependencies:
 - numpy
 - xarray
 - pandas
+- netcdf4
 - matplotlib
 - scipy
 - ipykernel
